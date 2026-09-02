@@ -1,3 +1,4 @@
+<img src="banner.jpeg" alt="Mohammed Hussien Banner" />
 <h1 align="center">Hi 👋, I'm Mohammed Hussien</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
