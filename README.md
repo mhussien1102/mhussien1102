@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hussien</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=435&lines=Problem+solver+%F0%9F%A7%A0;Building+Modern+Web+UIs+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhussien1102&label=Profile%20views&color=0e75b6&style=flat" alt="mhussien1102" /> </p>
 
 - 💬 Ask me about **Any thing**
