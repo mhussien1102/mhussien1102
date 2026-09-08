@@ -7,11 +7,11 @@
 
 ## 🧠 About Me
 
-🧑‍🎓 Recent graduate from Faculty of Computers and Artificial Intelligence At Benha University
-📱 Specialized in Flutter, Dart, Bloc/Cubit, Firebase, REST APIs and Responsive UI Development
-⚙️ Built multiple mobile applications including e commerce, service booking, and AI integrated solutions
-🤝 Collaborated with AI, Web, and Backend (.NET) teams during the development of a full-stack graduation project
-🌱 Currently learning Clean Architecture, Advanced State Management, and Flutter Performance Optimization
+<p>🧑‍🎓 Recent graduate from Faculty of Computers and Artificial Intelligence At Benha University </p>
+<p>📱 Specialized in Flutter, Dart, Bloc/Cubit, Firebase, REST APIs and Responsive UI Development </p>
+<p>⚙️ Built multiple mobile applications including e commerce, service booking, and AI integrated solutions</p>
+<p>🤝 Collaborated with AI, Web, and Backend (.NET) teams during the development of a full-stack graduation project</p>
+<p>🌱 Currently learning Clean Architecture, Advanced State Management, and Flutter Performance Optimization</p>
 
 ---
 
