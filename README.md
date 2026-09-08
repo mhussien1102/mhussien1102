@@ -18,8 +18,11 @@
 
 ## 📄 Download My CV
 
-<p> [![CV Badge](https://img.shields.io/badge/-View%20CV-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vGfRyU5Q_-kLPXzPE0GcpDckTztVUhGE/view?usp=sharing)</p>
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/xxxxxxxxxxxx/view">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 ---
 
 <h3 align="left">Connect with me:</h3>
