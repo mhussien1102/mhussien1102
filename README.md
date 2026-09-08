@@ -5,11 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhussien1102&label=Profile%20views&color=0e75b6&style=flat" alt="mhussien1102" /> </p>
 
-- 💬 Ask me about **Any thing**
+## 🧠 About Me
 
-- 📫 How to reach me **bodyalhoseny@gmail.com**
+🧑‍🎓 Recent graduate from Faculty of Computers and Artificial Intelligence At Benha University
+📱 Specialized in Flutter, Dart, Bloc/Cubit, Firebase, REST APIs and Responsive UI Development
+⚙️ Built multiple mobile applications including e commerce, service booking, and AI integrated solutions
+🤝 Collaborated with AI, Web, and Backend (.NET) teams during the development of a full-stack graduation project
+🌱 Currently learning Clean Architecture, Advanced State Management, and Flutter Performance Optimization
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tMl4SSa8LffUp40iZYekrqIZkeHd1o7f/view?usp=sharing](https://drive.google.com/file/d/1tMl4SSa8LffUp40iZYekrqIZkeHd1o7f/view?usp=sharing)
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
