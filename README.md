@@ -29,11 +29,13 @@
 </p>
 ---
 
+###🔥GitHub Streak
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themohabgamal&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themohabgamal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themohabgamal&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
 </p>
 
+---
 
 
 ---
