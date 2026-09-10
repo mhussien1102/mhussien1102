@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhussien1102&label=Profile%20views&color=0e75b6&style=flat" alt="mhussien1102" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Building+Amazing+Mobile+Apps!;Passionate+about+Coding+%F0%9F%94%A5" alt="Typing SVG">
+</p>
+
 ## 🧠 About Me
 
 <p>🧑‍🎓 Recent graduate from Faculty of Computers and Artificial Intelligence At Benha University </p>
